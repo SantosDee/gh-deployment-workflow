@@ -6,5 +6,5 @@
 
 
 <p align="center">
-  <img src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG" alt="Deployment Banner" width="600"/>
+  <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Glitchy computer deployment" width="600"/>
 </p>
